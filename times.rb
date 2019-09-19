@@ -1,7 +1,4 @@
 def using_times
-	#your code here
+	7times do#!/usr/bin/env ruby -wKU
+	puts "Wibardium Leviosa"
 end
-
-
-
-
